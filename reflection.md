@@ -16,14 +16,11 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 
 Document at least 3 bugs you found. Add rows as needed.
 
-| Input | Expected Behavior | Actual Behavior | Console Output / Error |
-|-------|-------------------|-----------------|------------------------|
-   50         Go LOWER!          Go HIGHER!              none
-   "W"    "Attempts left" to     "Attempts left"         none
-          remain the same        decreases
-   20      Secret number        Secret number is         none
-        should be between 1-20. outside this range
-            for easy mode
+| Input | Expected Behavior |     Actual Behavior     | Console Output / Error |
+|-------|-------------------|--------------------------|----------------------|
+| 50    |     Go LOWER!      |    Go HIGHER!          |       none  |
+|  "W"  |  "Attempts left" to remain the same | "Attempts left" decreases | none|
+| 20    |   Secret number should be between 1-20 for easy mode. |    Secret number is outside of this range | none |
 ---
 
 ## 2. How did you use AI as a teammate?
