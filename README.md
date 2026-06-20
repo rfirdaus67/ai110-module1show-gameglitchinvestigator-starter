@@ -49,11 +49,14 @@ Describe your fixed game in numbered steps so a reader can follow along without 
 ## 🧪 Test Results
 
 ```
-# Paste your pytest output here, e.g.:
-# pytest tests/
-# ========================= X passed in 0.XXs =========================
-```
+========================== test session starts ==========================
+platform darwin -- Python 3.9.6, pytest-8.4.2, pluggy-1.6.0
+rootdir: /Users/rehanafirdaus/Desktop/CodePath/ai110-module2/project1
+collected 6 items                                                       
 
+tests/test_game_logic.py ......                                   [100%]
+
+=========================== 6 passed in 0.02s ===========================
 ## 🚀 Stretch Features
 
 - [ ] [If you choose to complete Challenge 4, describe the Enhanced UI changes here — a screenshot is optional]
